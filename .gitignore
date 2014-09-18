@@ -1,0 +1,22 @@
+# Python:
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+dist
+build
+demoTest.py
+deleteDataInDB.py
+
+#dirs
+commentsHomeWebPage
+TvProgramsComments
+TvProgramsInfo
+homeWebPage
+pagingWebPage
+
+#files
+homeWebPageInfo
+pagingWebPageInfo
+commentsHomeWebPageInfo
+commentsPagingWebPageInfo
